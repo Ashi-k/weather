@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Akronim&family=Carter+One&family=Kaushan+Script&family=Noto+Sans:wght@500&family=Poppins&family=Rubik+Microbe&family=Satisfy&family=Train+One&family=Urbanist&display=swap');
+body {
+  background-image: url('images/image-weather.webp');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+}
+h1{
+  font-family: 'Carter One', cursive;
+  color: rgb(22, 22, 21);
+}
+
+p{
+  font-family: 'Poppins', sans-serif;
+}
+h2{
+  font-family: 'Urbanist', sans-serif;
+}
+
+li{
+  font-family: 'Noto Sans', sans-serif;
+}
